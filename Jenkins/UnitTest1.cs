@@ -12,7 +12,7 @@ namespace Jenkins
         [Test]
         public void TestMethod1()
         {
-            Console.WriteLine("done1");
+            Console.WriteLine("done2");
         }
     }
 }
