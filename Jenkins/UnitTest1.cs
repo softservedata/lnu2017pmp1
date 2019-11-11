@@ -9,6 +9,7 @@ namespace Jenkins
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("done");
         }
     }
 }
